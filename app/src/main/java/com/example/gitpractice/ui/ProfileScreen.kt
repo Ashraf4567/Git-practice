@@ -5,8 +5,8 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 
 @Composable
-fun ProfileScreen() {
+fun HomeScreen() {
     Row {
-        Text(text = "this profile will stash")
+        Text(text = "this is home")
     }
 }
