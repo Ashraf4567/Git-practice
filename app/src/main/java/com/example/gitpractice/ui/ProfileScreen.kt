@@ -7,6 +7,6 @@ import androidx.compose.runtime.Composable
 @Composable
 fun ProfileScreen() {
     Row {
-        Text(text = "this profile")
+        Text(text = "this profile will stash")
     }
 }
